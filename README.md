@@ -64,13 +64,16 @@ The Boids example provides a more complex scenario with thousands of Entities. B
 
   * Entities
   * Hybrid.Renderer
+  * Unity.Physics
 
   Adding the Entities package to your Project also adds the following packages:
   
   * Burst
   * Collections
   * Jobs
-  * Mathematics 
+  * Mathematics
+  
+6. Open your Player Settings, and check "Allow Unsafe Code". 
 
 **Note:** You can use the [Unity Hub](https://unity3d.com/get-unity/download) to install multiple versions of Unity on the same computer.
 
